@@ -1,0 +1,3 @@
+A diferença está nos métodos que podemos utilizar para trabalhar com algumas informações de char ou string, como por
+exemplo o tamanho, que numa cadeia de caracteres pode ser verificado com length(), mas esse método específico não está disponível
+para strings.
