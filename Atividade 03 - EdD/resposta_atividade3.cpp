@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include <iostream>
-using namespace st;
+using namespace std;
 
 typedef struct lista{
         char letra;
