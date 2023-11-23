@@ -13,3 +13,7 @@ int main() {
 
     return 0;
 }
+
+/**
+ * Soma recursivamente os itens de cada membro da lista, armazenando o resultado em soma_elementos.
+ */

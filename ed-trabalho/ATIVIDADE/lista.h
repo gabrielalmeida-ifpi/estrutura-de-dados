@@ -63,7 +63,7 @@ int soma(Lista L) {
     if (L == NULL) {
         return 0;
     } else {
-        return L->item + soma(L->prox);
+        return L->item + soma(L->prox); 
     }
 }
 

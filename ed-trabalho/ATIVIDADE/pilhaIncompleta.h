@@ -15,7 +15,7 @@ Pilha pilha(int m) {
 	Pilha P = (Pilha)malloc(sizeof(struct pilha));
 	P->max = m;
 	P->topo = -1;
-	P->item = (char*)malloc(m*sizeof(Itemp)); 
+	P->item = (char*)malloc(m*sizeof(Itemp)); //q1, q6
 	//P->item = (float*)malloc(m*sizeof(Itemp)); //q5
 	return P;
 }
